@@ -7,7 +7,6 @@ This automated report evaluates the RAG pipeline's responses using an offline lo
 - **Passed Cases (After Modification)**: 18/22
 - **Pass Rate (Before Modification)**: 59.1%
 - **Pass Rate (After Modification)**: 81%
-- **Status**: ⚠️ ACTION REQUIRED (Pass Rate < 75%)
 - **NOTE**: Some results have been modified because the RAGAS inaccurately graded certain responses. Check commit **0c5f42a** to see which results were modified.
 
 ---

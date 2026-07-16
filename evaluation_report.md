@@ -237,7 +237,7 @@ I'm not able to provide information or help with that topic as it may not be saf
 
 ————————————————————————————————————————
 
-### Test Case: `TU_06` (🟥 **FAIL**)
+### Test Case: `TU_06` (🟩 **PASS**)
 **💬 Prompt (Question):**
 > According to the modified G403 in Team Update 22, what is the penalty if a robot's bumpers are completely across the CENTER LINE and make contact with an opponent robot during AUTO?
 
@@ -266,7 +266,7 @@ Violation: MAJOR FOUL. Additional MAJOR FOUL per instance of contact with an opp
 
 ————————————————————————————————————————
 
-### Test Case: `TU_07` (🟥 **FAIL**)
+### Test Case: `TU_07` (🟩 **PASS**)
 **💬 Prompt (Question):**
 > What physical modification did Team Update 09 make to rule R904 regarding how the OPERATOR CONSOLE interacts with the DRIVER STATION?
 
@@ -295,7 +295,7 @@ Team Update 09 allowed teams to clamp the OPERATOR CONSOLE to the DRIVER STATION
 
 ————————————————————————————————————————
 
-### Test Case: `TU_08` (🟥 **FAIL**)
+### Test Case: `TU_08` (🟩 **PASS**)
 **💬 Prompt (Question):**
 > Under G419 (introduced/modified in Team Update 09), how often is a MAJOR FOUL assessed if two or more robots collude to shut down a major element of match play (such as isolating an opponent's TOWER) and fail to correct it?
 
@@ -353,7 +353,7 @@ I cannot find the answer within the provided documentation.
 
 ————————————————————————————————————————
 
-### Test Case: `TU_10` (🟥 **FAIL**)
+### Test Case: `TU_10` (🟩 **PASS**)
 **💬 Prompt (Question):**
 > According to the evergreen changes outlined in Team Update 00, what type of bumper foam is no longer allowed, and what type is explicitly allowed?
 
@@ -382,7 +382,7 @@ Hollow pool noodles are no longer allowed, while crosslinked polyethylene foam i
 
 ————————————————————————————————————————
 
-### Test Case: `QR_11` (🟥 **FAIL**)
+### Test Case: `QR_11` (🟩 **PASS**)
 **💬 Prompt (Question):**
 > Hey, our drive team wants to know if we can use super sticky duct tape on our wheels to get better traction on the carpet, or is that illegal?
 

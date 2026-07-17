@@ -3,7 +3,7 @@
 # Section 1 – Quick links:
 
 * [GitHub Repository](https://github.com/aaravarora155/FRC-Game-Manual-Interpreter/tree/main)  
-* [RAGAS Results](https://github.com/aaravarora155/FRC-Game-Manual-Interpreter/blob/main/evaluation_report.md)
+* [RAGAS Results](https://github.com/aaravarora155/FRC-Game-Manual-Interpreter/blob/main/reports/evaluation_report.md)
 
 # Section 2 – Documentation:
 
@@ -32,11 +32,11 @@
 
     * Takes Raw CSV text from the vision model and formats it into a well-formed markdown table that marked.js can render.
 
-  * ### perform\_vision\_ocr(base64\_image\_string): {#perform_vision_ocr(base64_image_string):}
+  * ### perform\_vision\_ocr(base64\_image\_string):
 
     * Leverages a local vision model to accurately parse text, tables, or diagram rules out of user-uploaded images.
 
-  * ### decompose\_and\_rephrase\_query(user\_query): {#decompose_and_rephrase_query(user_query):}
+  * ### decompose\_and\_rephrase\_query(user\_query):
 
     * Decomposes compound questions into subqueries and rephrases them to maximize vector database embedding matches
 
@@ -57,7 +57,7 @@
 
     * Build the database using the manual and team updates.
 
-  * ### classify\_query\_sentiment(user\_query): {#classify_query_sentiment(user_query):}
+  * ### classify\_query\_sentiment(user\_query):
 
     * Uses a lightweight model to quickly categorize the user’s emotional tone before prompt generation
 

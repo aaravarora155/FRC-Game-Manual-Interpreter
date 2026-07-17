@@ -3,7 +3,7 @@
 # Section 1 – Quick links:
 
 * [GitHub Repository](https://github.com/aaravarora155/FRC-Game-Manual-Interpreter/tree/main)  
-* [RAGAS Results](https://github.com/aaravarora155/FRC-Game-Manual-Interpreter/blob/main/evaluation_report.md)
+* [RAGAS Results](https://github.com/aaravarora155/FRC-Game-Manual-Interpreter/blob/main/reports/evaluation_report.md)
 
 # Section 2 – Documentation:
 
